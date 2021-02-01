@@ -2,4 +2,4 @@
 
 #
 
-In this simple web application you can choose one liquor type, and then we'll get available brands of that liquor type.
+In this simple web application you can choose one liquor type. Then it shows available brands of that liquor type.
